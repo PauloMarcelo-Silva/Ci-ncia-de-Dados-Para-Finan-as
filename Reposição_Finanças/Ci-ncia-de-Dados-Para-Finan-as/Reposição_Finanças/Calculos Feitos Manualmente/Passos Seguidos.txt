@@ -1,0 +1,5 @@
+Passos Seguidos:
+Definição dos parâmetros: Defini os parâmetros necessários para o modelo binomial, incluindo o preço atual do ativo (Petrobras), o preço de exercício da opção, o tempo até a expiração da opção, a taxa de juros livre de risco e a volatilidade anualizada.
+Cálculo dos fatores de crescimento e queda: Com base na volatilidade, calculei os fatores de crescimento (u) e queda (d) do preço do ativo.
+Cálculo da probabilidade de movimento de alta (p): Usando a taxa de juros e os fatores de crescimento e queda, calculei a probabilidade de um movimento de alta no preço do ativo.
+Cálculo manual do preço da opção: Usando a fórmula do modelo binomial, calculei manualmente o preço da opção de compra para um determinado preço de exercício.
